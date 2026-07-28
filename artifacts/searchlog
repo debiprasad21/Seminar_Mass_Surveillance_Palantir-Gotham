@@ -1,0 +1,18 @@
+Seed papers: Wei et al. 2024 · Underwood & Saiedian 2021 · Schuster et al. 2017
+
+Search dates: late April 2026 – June 2026
+
+Tools: Google Scholar, Connected Papers
+
+Search terms:
+  "ontology gotham"
+  "mass surveillance metadata"
+  "palantir gotham"
+
+Snowballing: "ontology Gotham" (Scholar) → Galis & Karlsson 2024 (top hit)
+  → its Connected Papers graph → Iliadis & Acker 2022, Ulbricht & Egbert 2024
+
+Selection criteria:
+  Keep: peer-reviewed · English · describes Gotham/a deployment,
+        or defines surveillance in attribute terms
+  Rule out: journalism/vendor marketing · Palantir-as-company only
